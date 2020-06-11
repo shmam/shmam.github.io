@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sam crochet</title>
+    <link>https://shmam.github.io/</link>
+    <description>Recent content on sam crochet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shmam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about me</title>
+      <link>https://shmam.github.io/about/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shmam.github.io/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis egestas pretium aenean pharetra magna ac. Purus non enim praesent elementum facilisis. Faucibus ornare suspendisse sed nisi lacus. Facilisis volutpat est velit egestas dui id ornare. Urna nunc id cursus metus. Lectus sit amet est placerat. Nunc eget lorem dolor sed viverra ipsum. Nullam non nisi est sit amet facilisis magna etiam.</description>
+    </item>
+    
+    <item>
+      <title>sam-as-a-service.com</title>
+      <link>https://shmam.github.io/posts/post1/</link>
+      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      
+      <guid>https://shmam.github.io/posts/post1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
